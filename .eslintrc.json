@@ -1,0 +1,18 @@
+{
+	"extends": ["prettier", "airbnb-base"],
+	"env": {
+		"jest": true,
+		"es6": true
+	},
+	"parserOptions": {
+        "ecmaVersion": 2018,
+		"sourceType": "script"
+	},
+	"rules": {
+		"no-tabs": "off",
+		"object-curly-spacing": "off",
+		"indent": [1, "tab"],
+		"no-underscore-dangle": "off",
+		"arrow-body-style": "off"
+	}
+}

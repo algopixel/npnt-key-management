@@ -1,0 +1,27 @@
+{
+  "name": "npnt-key-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algopixel/npnt-key-management.git"
+  },
+  "keywords": [
+    "NPNT",
+    "Digital",
+    "Sky"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algopixel/npnt-key-management/issues"
+  },
+  "homepage": "https://github.com/algopixel/npnt-key-management#readme",
+  "devDependencies": {
+    "node-forge": "^0.8.2"
+  }
+}
